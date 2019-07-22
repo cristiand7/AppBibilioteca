@@ -7,10 +7,12 @@ import { ViewAutoresComponent } from './autores/view-autores/view-autores.compon
 import { AddAutoresComponent } from './autores/add-autores/add-autores.component';
 import { AddCategoriasComponent } from './categorias/add-categorias/add-categorias.component';
 import { AddLibroComponent } from './libros/add-libro/add-libro.component';
+import { ViewDetailLibroComponent } from './libros/view-detail-libro/view-detail-libro.component';
 
 
 const routes: Routes = [
   {path: 'home', component: HomeComponent },
+  {path: 'libros/view-detail-libros', component: ViewDetailLibroComponent },
   {path: 'libros/view-libros', component: ViewLibrosComponent },
   {path: 'libros/add-libros', component: AddLibroComponent },
   {path: 'categorias/view-categorias', component: ViewCategoriasComponent },

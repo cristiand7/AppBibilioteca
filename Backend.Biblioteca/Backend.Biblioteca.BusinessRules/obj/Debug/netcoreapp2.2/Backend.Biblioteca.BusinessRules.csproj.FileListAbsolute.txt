@@ -40,3 +40,17 @@ C:\Users\USUARIO\Documents\sena\Backend.Biblioteca\Backend.Biblioteca.BusinessRu
 C:\Users\USUARIO\Documents\sena\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\obj\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.csproj.CopyComplete
 C:\Users\USUARIO\Documents\sena\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\obj\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.dll
 C:\Users\USUARIO\Documents\sena\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\obj\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.pdb
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\bin\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.deps.json
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\bin\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.dll
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\bin\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.pdb
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\bin\Debug\netcoreapp2.2\Backend.Biblioteca.Entities.dll
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\bin\Debug\netcoreapp2.2\Backend.Biblioteca.Repository.dll
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\bin\Debug\netcoreapp2.2\Backend.Biblioteca.Repository.pdb
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\bin\Debug\netcoreapp2.2\Backend.Biblioteca.Entities.pdb
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\obj\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\obj\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\obj\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\obj\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\obj\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.csproj.CopyComplete
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\obj\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.dll
+C:\Users\USUARIO\Documents\sena\repositorio\Backend.Biblioteca\Backend.Biblioteca.BusinessRules\obj\Debug\netcoreapp2.2\Backend.Biblioteca.BusinessRules.pdb

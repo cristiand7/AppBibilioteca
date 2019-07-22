@@ -23,6 +23,8 @@ import { CategoriaService } from './share/services/categoria.service';
 import { AutorService } from './share/services/autor.service';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import {MatDialogModule} from '@angular/material/dialog';
+import { ViewDetailLibroComponent } from './libros/view-detail-libro/view-detail-libro.component';
 //selection
 
 @NgModule({
@@ -38,7 +40,8 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
     UpdateAutoresComponent,
     UpdateCategoriasComponent,
     AddCategoriasComponent,
-    MenuComponent
+    MenuComponent,
+    ViewDetailLibroComponent
   ],
   imports: [
     BrowserModule,
@@ -49,7 +52,8 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
     ReactiveFormsModule,
     FormsModule,
     BrowserAnimationsModule ,
-    MatListModule
+    MatListModule,
+    MatDialogModule
   ],
   providers: [
     LibroService

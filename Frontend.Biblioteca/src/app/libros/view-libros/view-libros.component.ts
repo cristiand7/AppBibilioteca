@@ -1,7 +1,10 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Inject } from '@angular/core';
 import { Libro } from 'src/app/share/clases/libro';
 import { LibroService } from 'src/app/share/services/libro.service';
 import {MatTableDataSource} from '@angular/material/table';
+import { MatDialog } from '@angular/material/dialog';
+import { ViewDetailLibroComponent } from '../view-detail-libro/view-detail-libro.component';
+import { AddLibroComponent } from '../add-libro/add-libro.component';
 
 @Component({
   selector: 'app-view-libros',
@@ -18,7 +21,7 @@ export class ViewLibrosComponent implements OnInit {
   displayedColumns: string[] = ['nombre', 'autor', 'ISBN','actions'];
   dataSource = new MatTableDataSource<Libro>();
 
-  constructor(private service : LibroService) { }
+  constructor(private service : LibroService,public dialog: MatDialog) { }
 
   ngOnInit() {
     this.actualizar();
@@ -57,4 +60,10 @@ export class ViewLibrosComponent implements OnInit {
     );  
   }
 
+  openDialog(libro: Libro) {
+    this.dialog.open(ViewDetailLibroComponent,{
+      data: libro   
+    });
+  }
 }
+

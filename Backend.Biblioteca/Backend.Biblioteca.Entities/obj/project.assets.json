@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj",
       "projectName": "Backend.Biblioteca.Entities",
-      "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj",
+      "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\obj\\",
+      "outputPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

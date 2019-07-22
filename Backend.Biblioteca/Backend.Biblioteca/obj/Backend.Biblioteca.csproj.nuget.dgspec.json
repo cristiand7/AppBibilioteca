@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca\\Backend.Biblioteca.csproj": {}
+    "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca\\Backend.Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.BusinessRules\\Backend.Biblioteca.BusinessRules.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.BusinessRules\\Backend.Biblioteca.BusinessRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.BusinessRules\\Backend.Biblioteca.BusinessRules.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.BusinessRules\\Backend.Biblioteca.BusinessRules.csproj",
         "projectName": "Backend.Biblioteca.BusinessRules",
-        "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.BusinessRules\\Backend.Biblioteca.BusinessRules.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.BusinessRules\\Backend.Biblioteca.BusinessRules.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.BusinessRules\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.BusinessRules\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Repository\\Backend.Biblioteca.Repository.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Repository\\Backend.Biblioteca.Repository.csproj"
+              "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Repository\\Backend.Biblioteca.Repository.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Repository\\Backend.Biblioteca.Repository.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj",
         "projectName": "Backend.Biblioteca.Entities",
-        "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -112,14 +112,14 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Repository\\Backend.Biblioteca.Repository.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Repository\\Backend.Biblioteca.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Repository\\Backend.Biblioteca.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Repository\\Backend.Biblioteca.Repository.csproj",
         "projectName": "Backend.Biblioteca.Repository",
-        "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Repository\\Backend.Biblioteca.Repository.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Repository\\Backend.Biblioteca.Repository.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Repository\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -138,8 +138,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj"
+              "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.Entities\\Backend.Biblioteca.Entities.csproj"
               }
             }
           }
@@ -172,14 +172,14 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca\\Backend.Biblioteca.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca\\Backend.Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca\\Backend.Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca\\Backend.Biblioteca.csproj",
         "projectName": "Backend.Biblioteca",
-        "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca\\Backend.Biblioteca.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca\\Backend.Biblioteca.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -198,8 +198,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.BusinessRules\\Backend.Biblioteca.BusinessRules.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\Backend.Biblioteca\\Backend.Biblioteca.BusinessRules\\Backend.Biblioteca.BusinessRules.csproj"
+              "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.BusinessRules\\Backend.Biblioteca.BusinessRules.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Documents\\sena\\repositorio\\Backend.Biblioteca\\Backend.Biblioteca.BusinessRules\\Backend.Biblioteca.BusinessRules.csproj"
               }
             }
           }
