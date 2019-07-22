@@ -1,0 +1,12 @@
+<h3>Crear categoria</h3>
+<p class="correcto">{{message}}</p>
+<form (ngSubmit)="procesarAutor()">
+    <label for="nombre">Nombre</label>
+    <input type='text' autofocus name='nombre' id='nombre' [(ngModel)]='categoria.nombre'/>
+    <br>
+    <label for="descripcion">Descripción</label>
+    <textarea name='descripcion' id='descripcion' [(ngModel)]='categoria.descripcion'>
+    </textarea>
+    <br>
+    <button type="submit" class="btnGuardar" >Guardar</button>
+</form>

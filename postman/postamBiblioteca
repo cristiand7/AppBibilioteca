@@ -1,0 +1,163 @@
+{
+	"info": {
+		"_postman_id": "3d2b7fde-0c24-40f9-aeee-ea08bdc09ee6",
+		"name": "API-Biblioteca",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Categorias",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/categoria",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"categoria"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get Autores",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/autor/3",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"autor",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get libro",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/libro",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"libro"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "post autor",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"nombres\":\"hi\",\"apellidos\":\"hi2\",\"fechaNacimiento\":\"1900-01-01\"}"
+				},
+				"url": {
+					"raw": "https://localhost:5001/api/autor",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"autor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "post autor",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"listaCategorias\":[\n\t],\n\t\"nombre\":\"new book\",\n\t\"autorId\":\"52479f48-34b1-46c9-9d74-76f69accbac5\",\n\t\"isbn\":\"345\"\n\t\n}"
+				},
+				"url": {
+					"raw": "https://localhost:5001/api/libro",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"libro"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "post categoria",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"nombre\":\"new category \",\"descripcion\":\"...\"}"
+				},
+				"url": {
+					"raw": "https://localhost:5001/api/categoria",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"categoria"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

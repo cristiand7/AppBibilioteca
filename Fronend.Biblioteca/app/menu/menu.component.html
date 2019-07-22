@@ -1,0 +1,33 @@
+<a [routerLink]="['home']" routerLinkActive='router-link-active'>
+    <button class="menubutton" >Home</button>
+</a>
+<button class="menubutton" mat-button [matMenuTriggerFor]="belowLibros">Libros</button>
+<mat-menu #belowLibros="matMenu" yPosition="below">
+    <a [routerLink]="['libros/view-libros']" routerLinkActive='router-link-active'>
+        <button mat-menu-item>Ver</button>
+    </a>
+    <a [routerLink]="['libros/add-libros']" routerLinkActive='router-link-active'>
+        <button mat-menu-item>Crear</button>
+    </a>
+</mat-menu>
+
+
+<button class="menubutton" mat-button [matMenuTriggerFor]="belowCat">Categorias</button>
+<mat-menu #belowCat="matMenu" yPosition="below">
+    <a [routerLink]="['categorias/view-categorias']" routerLinkActive='router-link-active'>
+        <button mat-menu-item>Ver</button>
+    </a>
+    <a [routerLink]="['categorias/add-categorias']" routerLinkActive='router-link-active'>
+        <button mat-menu-item>Crear</button>
+    </a>
+</mat-menu>
+
+<button class="menubutton"  mat-button [matMenuTriggerFor]="belowAutor">Autores</button>
+<mat-menu #belowAutor="matMenu" yPosition="below">
+    <a [routerLink]="['autores/view-autores']" routerLinkActive='router-link-active'>
+        <button mat-menu-item>Ver</button>
+    </a>
+    <a [routerLink]="['autores/add-autores']" routerLinkActive='router-link-active'>
+        <button mat-menu-item>Crear</button>
+    </a>
+</mat-menu>
