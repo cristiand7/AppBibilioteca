@@ -19,12 +19,15 @@ create table [Backend.db].[Libro] (
     Id varchar(50) primary key,
     Nombre varchar(50) not null ,
     AutorId varchar(50) not null,
-    ISBN varchar(50)
+    ISBN varchar(50),
+    FOREIGN KEY (AutorId) REFERENCES Autor(Id)
 );
 
 create table  [Backend.db].[LibroCategorias] (
     Id varchar(50) primary key,
     LibroId varchar(50),
     CategoriaId varchar(50),
+    FOREIGN KEY (LibroId) REFERENCES Libro(Id),
+    FOREIGN KEY (CategoriaId) REFERENCES Categoria(Id)
 );
 
